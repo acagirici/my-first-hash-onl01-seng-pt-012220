@@ -1,5 +1,5 @@
 def my_hash
-your_hash = {"James" => "my first grade teacher", "James Bond" => "name of a character in an action movie"
+my_hash = {"James" => "my first grade teacher", "James Bond" => "name of a character in an action movie"
 end
 
 
