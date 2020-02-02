@@ -1,9 +1,9 @@
 def my_hash
-my_hash = {"James" => "my first grade teacher", "age" => 55, "Location" => "New York"
+my_hash = {"James" => "my first grade teacher", "age" => 55, "Location" => "New York"}
 end
 
 def shipping_manifest
-the_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3
+the_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
 end
 
 def retrieval
